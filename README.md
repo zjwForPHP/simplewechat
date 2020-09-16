@@ -1,2 +1,15 @@
-# simplewechat
-A simple wechat develop package
+# SimpleWechat
+
+#### 系列介绍
+##### 仰望
+> 星空浩瀚，你是否曾经想拥抱繁星？哪怕一瞬
+
+#### 项目介绍
+
+不复杂的wechat简便封装开发包，目的在于自己用，（其他成熟的包也很好用，但是实现有点复杂，所以自己封装一个简单点的易于随时修改维护）
+
+
+#### 参与贡献
+
+zjwForPHP
+
