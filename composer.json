@@ -1,0 +1,25 @@
+{
+  "name": "morty/simplewechat",
+  "description": "A simple wechat develop package",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "wechat",
+    "wordbox"
+  ],
+  "authors": [
+    {
+      "name": "zjwForPHP",
+      "email": "phpzjw2016@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SimpleWechat\\": "src/"
+    }
+  }
+}

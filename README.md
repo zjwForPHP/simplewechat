@@ -1,5 +1,7 @@
 # SimpleWechat
 
+<p align="center"><img src="https://avatars0.githubusercontent.com/u/26923269?s=400&u=bd29e7056c1f00a61555c3153f59bc5628d995a8&v=4"></p>
+
 #### 系列介绍
 ##### 仰望
 > 星空浩瀚，你是否曾经想拥抱繁星？哪怕一瞬
